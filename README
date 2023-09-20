@@ -1,0 +1,1 @@
+The goal of this project is to trained four different machine learning models to correcly predict the career outcomes of NBA Players given their game statistics. This project utilizes a logistic regression, random forest, gradient boosting, and knn models.
